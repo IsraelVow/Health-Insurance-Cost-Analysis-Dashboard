@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Cost Efficiency Analysis project focused on evaluating and estimating the cost of healthcare services provided by Almadina Clinic to Health Maintenance Organizations (HMOs). This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs.
+Welcome to the Cost Efficiency Analysis project focused on assessing and evaluating the cost of healthcare services provided by Almadina Clinic to Health Maintenance Organizations (HMOs). This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs.
 
 ## Project Background
 
@@ -24,7 +24,7 @@ The rising cost of healthcare services has become a significant concern in the h
 
 ## Data Source
 
-The data used for this Cost Efficiency Analysis project does not contain sensitive company information. To ensure data privacy and confidentiality, actual data from the organization has not been utilized. Instead, synthetic data that closely mimic the characteristics and statistical properties of the original dataset has been generated for the purpose of demonstrating the analysis techniques. The synthetic data maintains the structure and complexity of the actual data, allowing me to conduct a comprehensive evaluation and estimation without exposing any sensitive information.
+The data used for this Cost Efficiency Analysis project does not contain sensitive company information. To ensure data privacy and confidentiality, actual data from the organization has not been utilized. Instead, synthetic data that closely mimic the characteristics and statistical properties of the original dataset has been generated to demonstrate the analysis techniques. The synthetic data maintains the structure and complexity of the actual data, allowing me to conduct a comprehensive evaluation and estimation without exposing any sensitive information.
 
 The generation of synthetic data follows rigorous data anonymization and privacy-preserving procedures, ensuring that individual identities, financial details, and any proprietary information remain completely protected. As a result, the analysis and conclusions derived from this project are based solely on the simulated data and are not reflective of any specific individuals, entities, or actual financial figures.
 
