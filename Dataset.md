@@ -55,7 +55,29 @@ The columns contain data of different types, including dates, text, integers, an
 
 ## Data Cleaning and Preprocessing
 
-The dataset underwent a thorough cleaning and preprocessing steps to ensure its suitability for analysis. Missing values were handled, and data inconsistencies were addressed. Synthetic data were generated to mimic the characteristics of the original dataset, ensuring the privacy and confidentiality of sensitive information.
+The dataset underwent a thorough cleaning and preprocessing steps to ensure its suitability for analysis. Missing values were handled, and data inconsistencies were addressed. Synthetic data were generated to mimic the characteristics of the original dataset, ensuring the privacy and confidentiality of sensitive information. The main cleaning and preprocessing operations are as follows:
+
+1. **Data Loading:** The data was loaded from a folder containing monthly transactions for the year 2019 to 2020.
+
+2. **Data Extraction:** Unnecessary columns were removed, leaving only the "Content" column.
+
+3. **Excel Workbook Extraction:** The "Content" column was converted into Excel workbooks to access the data in a structured format.
+
+4. **Data Transformation:** The data was transformed by promoting headers to create meaningful column names and expanding the table.
+
+5. **Filtering:** Only records related to NHIS patients were selected for the analysis.
+
+6. **Data Splitting:** The "HMO Name(Code)" column was split to separate the HMO Code, HMO Name, and HMO Category.
+
+7. **Text Transformation:** The text values in the "HMO Name(Code)" column were standardized to uppercase, and specific phrases were replaced with consistent categories.
+
+8. **Data Joining:** The dataset was merged with a product items table to include additional information about the healthcare services provided.
+
+9. **Data Cleanup:** Null values in the "PRODUCT ID" and "CATEGORY" columns were replaced with appropriate default values.
+
+10. **Data Type Conversion:** The "10% Co-payment," "Value of Transaction," "Covered by Cap," "Not Covered By Cap," and "Date" columns were converted to the appropriate data types.
+
+The cleaned and preprocessed dataset is now ready for analysis.
 
 ## Data Dictionary
 
@@ -68,8 +90,8 @@ Here's a brief data dictionary for the columns:
 - HMO CATEGORY: Category of the HMO (Text).
 - Services Rendered: Description of the healthcare service provided (Text).
 - Location/Department: Department or location where the service was rendered (Text).
-- 10% Co-payment: The amount of 10% co-payment paid by the enrollee (Currency).
-- Value of Transaction: Total value of the healthcare service (Currency).
+- 10% Co-payment: The 10% co-payment paid by the enrollee (Currency).
+- Value of Transaction: Total healthcare service value (Currency).
 - Covered by Cap: Amount covered by the capitation payment from the HMO (Currency).
 - Not Covered By Cap: Amount not covered by the capitation payment (Currency).
 - PRODUCT ID: Unique identifier for the healthcare service product (Text).
