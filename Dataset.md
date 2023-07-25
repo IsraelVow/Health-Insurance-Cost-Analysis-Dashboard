@@ -1,4 +1,8 @@
-## Dataset Preview
+# Dataset Description: Healthcare Services Cost Analysis
+
+## Data Source
+
+The dataset used for this analysis was obtained from the Health Information System of Almadina Clinic. The data export range covers transactions from 2019 to 2020. It includes information related to healthcare services provided to Health Maintenance Organization (HMO) enrollees.
 
 Here's a preview of the dataset:
 
@@ -18,12 +22,11 @@ Here's a preview of the dataset:
 | 01/01/2019 | JIBRIL, NUJAHID        | 019A     | WISEHEALTH SERVICES LIMITED          | PUBLIC       | GP Consultation - (NHIS) | Almadina Clinic     | null            | 1,500.00             | 1,500.00       | null               | CL0084     | Medical Service|
 | 01/01/2019 | JIBRIN, ABUBAKAR       | 019A     | WISEHEALTH SERVICES LIMITED          | PUBLIC       | GP Consultation - (NHIS) | Almadina Clinic     | null            | 1,500.00             | 1,500.00       | null               | CL0084     | Medical Service|
 
-The dataset contains 204502 rows and 19 columns in total.
+## Data Summary
+The columns contain data of different types, including dates, text, integers, and currency values.
 
 * **Number of rows:** 204502
 * **Number of columns:** 18
-* **Column names:** SN, Date, Patient Name, HMO CODE, HMO NAME, HMO CATEGORY, Services Rendered, Location/Department, 10% Co-payment, Value of Transaction, Covered by Cap, Not Covered By Cap, Amount  Paid, Method of Payment, Description of Expense, Approved by, Expense Amount
-* **Data types:** SN (Integer), Date (Date/time format), Patient Name (Text), HMO CODE (Integer), HMO NAME (Text), HMO CATEGORY (Text), Services Rendered (Text), Location/Department (Text), 10% Co-payment (Currency), Value of Transaction (Currency), Covered by Cap (Currency), Not Covered By Cap (Currency), Amount  Paid (Currency), Method of Payment (Currency), Description of Expense (Text), Approved by (Text), Expense Amount (Currency)
 * **Minimum value:**
     * 10% Co-payment: 0.9
     * Value of Transaction: 5
@@ -35,20 +38,44 @@ The dataset contains 204502 rows and 19 columns in total.
     * Covered by Cap: 6276253
     * Not Covered by Cap: 760000
 * **Mean:**
-    * 10% Co-payement: 118.3271112
+    * 10% Co-payment: 118.3271112
     * Value of Transaction: 1867.100215
     * Covered by Cap: 1247.869532
     * Not Covered by Cap: 2679.120633
 * **Median:**
-    * 10% Co-payement: 99
+    * 10% Co-payment: 99
     * Value of Transaction: 1125
     * Covered by Cap: 1380
     * Not Covered by Cap: 1500
 * **Standard deviation:**
-     * 10% Co-payement: 107.7169484
+     * 10% Co-payment: 107.7169484
     * Value of Transaction: 14927.79893
     * Covered by Cap: 18853.76686
     * Not Covered by Cap: 9324.376856
+
+## Data Cleaning and Preprocessing
+
+The dataset underwent a thorough cleaning and preprocessing steps to ensure its suitability for analysis. Missing values were handled, and data inconsistencies were addressed. Synthetic data were generated to mimic the characteristics of the original dataset, ensuring the privacy and confidentiality of sensitive information.
+
+## Data Dictionary
+
+Here's a brief data dictionary for the columns:
+
+- Date: Date of the healthcare service transaction (Date/time format).
+- Patient Name: Name of the patient receiving the service (Text).
+- HMO CODE: Code assigned to the Health Maintenance Organization (Integer).
+- HMO NAME: Name of the Health Maintenance Organization (Text).
+- HMO CATEGORY: Category of the HMO (Text).
+- Services Rendered: Description of the healthcare service provided (Text).
+- Location/Department: Department or location where the service was rendered (Text).
+- 10% Co-payment: The amount of 10% co-payment paid by the enrollee (Currency).
+- Value of Transaction: Total value of the healthcare service (Currency).
+- Covered by Cap: Amount covered by the capitation payment from the HMO (Currency).
+- Not Covered By Cap: Amount not covered by the capitation payment (Currency).
+- PRODUCT ID: Unique identifier for the healthcare service product (Text).
+- CATEGORY: Category of the healthcare service (Text).
+
+
 
 For more details, you can check the full dataset file [Dataset](https://docs.google.com/spreadsheets/d/1dEK3mo-xPwsMboUCSEvhyibJBreFr1Uh/edit?usp=sharing&ouid=106517304862390569506&rtpof=true&sd=true)
 
