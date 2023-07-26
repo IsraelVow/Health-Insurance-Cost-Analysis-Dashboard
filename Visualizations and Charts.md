@@ -74,12 +74,19 @@ This button, when clicked, sends the user to the Departmental Analysis sheet. He
 
 ### HMO Analysis Button
 
-The HMO Analysis button is linked to the HMO Analysis sheet. Here, stakeholders can access three pivot tables: "Comparison of Total 10% Co-payment and Total Clinic Owing Pharmacy (Segmented on Monthly Basis)," "Cumulative Yearly Total by Months and Years," and "Percent Change by HMO Between the Two Years Covered." These tables offer a comprehensive analysis of HMO-related cost metrics and trends.
+The HMO Analysis button is linked to the HMO Analysis sheet. Here, stakeholders can access three pivot tables: "Comparison of Total 10% Co-payment and Total Clinic Owing Pharmacy (Segmented on a Monthly Basis)," "Cumulative Yearly Total by Months and Years," and "Percent Change by HMO Between the Two Years Covered." These tables offer a comprehensive analysis of HMO-related cost metrics and trends.
 
 ### HMO Claims Button
 
 Clicking on the HMO Claims button will take the user to the HMO Claims summary sheet. This sheet presents a summary of billed and vetted claims for both public and private HMOs, along with the remaining balance to be paid.
 
 With these interactive features, stakeholders can easily explore and analyze healthcare cost data, gain valuable insights, and make data-driven decisions to improve cost efficiency and service quality.
+
+## Interactive Dashboard GIF
+
+![Interactive Dashboard GIF](https://i.imgur.com/j6Bx1fG.gifv)
+
+**Description:**
+The Interactive Dashboard GIF demonstrates the dynamic features and functionalities of the entire visualization and chart activity. Users can interact with slicers and click on buttons to explore different sections of the dashboard, including the Battery Chart, Doughnut Chart, Bar Chart, Departmental Analysis, HMO Analysis, and HMO Claims. The GIF showcases how the charts and pivot tables update based on user selections, providing a seamless and informative user experience. By utilizing this interactive dashboard, stakeholders can make data-driven decisions, gain insights into cost trends, and optimize healthcare services' financial efficiency effectively.
 
 
