@@ -84,7 +84,7 @@ With these interactive features, stakeholders can easily explore and analyze hea
 
 ## Interactive Dashboard GIF
 
-![Interactive Dashboard GIF](https://i.imgur.com/j6Bx1fG.gifv)
+![Interactive Dashboard GIF](https://imgur.com/j6Bx1fG.gif)
 
 **Description:**
 The Interactive Dashboard GIF demonstrates the dynamic features and functionalities of the entire visualization and chart activity. Users can interact with slicers and click on buttons to explore different sections of the dashboard, including the Battery Chart, Doughnut Chart, Bar Chart, Departmental Analysis, HMO Analysis, and HMO Claims. The GIF showcases how the charts and pivot tables update based on user selections, providing a seamless and informative user experience. By utilizing this interactive dashboard, stakeholders can make data-driven decisions, gain insights into cost trends, and optimize healthcare services' financial efficiency effectively.
