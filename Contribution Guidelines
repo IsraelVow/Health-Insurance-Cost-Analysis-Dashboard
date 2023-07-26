@@ -1,0 +1,59 @@
+# Contribution Guidelines
+
+Thank you for your interest in contributing to the Cost Efficiency Analysis project! We welcome contributions from the community to improve and enhance this project. By contributing, you help make this project more valuable to others.
+
+To ensure a smooth and collaborative process, please follow these guidelines when making contributions:
+
+## Getting Started
+
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local development environment.
+
+## Branching
+
+1. Create a new branch for your contribution. The branch name should be descriptive of the feature or bug you are addressing (e.g., `feature/new-chart`, `bugfix/issue-123`).
+2. Make your changes in the new branch.
+
+## Code Style
+
+1. Follow the existing code style and conventions used in the project.
+2. Use meaningful variable and function names to make the code more readable.
+3. Include comments in the code where necessary to explain complex logic or functionality.
+
+## Testing
+
+1. Whenever possible, include tests for the new code you are adding or the bug you are fixing.
+2. Ensure that all existing tests pass successfully before submitting a pull request.
+
+## Commit Messages
+
+1. Write clear and descriptive commit messages for each commit.
+2. Use the present tense and imperative mood (e.g., "Add new feature" instead of "Added new feature").
+
+## Pull Requests
+
+1. Before submitting a pull request, ensure that your code is up to date with the latest changes in the `main` branch.
+2. Clearly describe the changes you have made in the pull request description.
+3. If your pull request addresses an existing issue, reference the issue number in the description (e.g., "Fixes #123").
+4. Be prepared to respond to feedback and make any necessary changes to your pull request.
+
+## Code Review
+
+1. Be respectful and constructive when providing feedback on pull requests.
+2. Reviewers should focus on the code's correctness, readability, and adherence to the project's guidelines.
+
+## Licensing
+
+1. Ensure that any new files or code contributed to the project are also covered by the project's existing MIT License.
+2. By submitting a pull request, you agree to release your contribution under the MIT License.
+
+## Acknowledgment
+
+We value and appreciate all contributions to the Cost Efficiency Analysis project. As a contributor, your name will be added to the list of contributors in the project's README file.
+
+Thank you for contributing to the project and helping make it better for everyone!
+
+If you have any questions or need further assistance, feel free to reach out to the project maintainers.
+
+---
+Please note that these guidelines are just a sample, and you can customize them based on your project's specific requirements and collaboration practices. It's essential to have clear guidelines to encourage healthy collaboration and ensure the quality of contributions.
