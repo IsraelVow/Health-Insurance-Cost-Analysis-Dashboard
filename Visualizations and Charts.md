@@ -1,6 +1,6 @@
 # Visualizations and Charts
 
-This section presents the visualizations and charts generated from the data analysis of the Cost Efficiency Analysis project. Each chart provides valuable insights into different aspects of the healthcare services' cost and helps in understanding the overall financial efficiency. Below are the key visualizations and their descriptions:
+This section presents the visualizations and charts generated from the data analysis of the Cost Efficiency Analysis project. Each chart provides valuable insights into different aspects of the healthcare services cost and helps in understanding the overall financial efficiency. Below are the key visualizations and their descriptions:
 
 ## 1. Battery Chart: Percentage of Total Cost
 
@@ -14,7 +14,7 @@ The Battery Chart visually represents the percentage of the total cost attribute
 ![Doughnut Chart](https://i.imgur.com/sRRAEkX.png)
 
 **Description:**
-The Doughnut Chart displays the average cost of healthcare services based on the HMO category. It presents a clear comparison between the cost for healthcare services covered by Public HMOs and Private HMOs. The chart's segments represent different healthcare cost categories, providing a quick understanding of how costs are distributed for each HMO category.
+The Doughnut Chart displays the average cost of healthcare services based on the HMO category. It presents a clear comparison between the cost of healthcare services covered by Public HMOs and Private HMOs. The chart's segments represent different healthcare cost categories, providing a quick understanding of how costs are distributed for each HMO category.
 
 ## 3. Bar Chart: Top 3 Most Active HMOs
 
@@ -35,7 +35,7 @@ The Pivot Table provides a comprehensive view of the cumulative yearly total cos
 ![Pivot Table](https://i.imgur.com/48LLwLO.png)
 
 **Description:**
-This Pivot Table presents a comparison of total NHIS services between 2019 and 2020 for various HMOs. It calculates the percentage change in cost, allowing stakeholders to assess the cost fluctuations for each HMO over the two-year period. The table provides insights into the growth or decline of each HMO's healthcare utilization and its financial impact.
+This Pivot Table presents a comparison of total NHIS services between 2019 and 2020 for various HMOs. It calculates the percentage change in cost, allowing stakeholders to assess the cost fluctuations for each HMO over the two years years. The table provides insights into the growth or decline of each HMO's healthcare utilization and its financial impact.
 
 ## 6. Pivot Table: HMO CAP & FFS
 
@@ -59,3 +59,27 @@ The Department Analysis 1 Pivot Table evaluates the total count of enrollee visi
 The Department Analysis 2 Pivot Table examines the total cost of healthcare services based on different departments within Almadina Clinic. It includes the average cost of services for each department and further breaks down the costs between CAP and FFS. Stakeholders can gain insights into cost disparities among departments and identify areas for cost optimization and resource allocation improvements.
 
 These visualizations and charts provide valuable insights into the cost structure and financial efficiency of healthcare services provided by Almadina Clinic. They enable data-driven decision-making, cost mitigation strategies, and overall improvements in healthcare service quality and cost-effectiveness.
+
+## Dashboard Navigation
+
+The interactive dashboard features four buttons that enhance the user experience and allow for easy navigation between different sections:
+
+### Dashboard Button
+
+Clicking on this button will take the user to the dashboard sheet. The dashboard sheet contains the Battery Chart, Doughnut Chart, and Bar Chart, providing a high-level overview of the healthcare cost distribution and the top three most active HMOs.
+
+### Departmental Analysis Button
+
+This button, when clicked, sends the user to the Departmental Analysis sheet. Here, two pivot tables are available: "Count of Services (Visits) per Department" and "Cost of Services per Department." These tables provide detailed insights into the performance of different departments in terms of patient visits and associated costs.
+
+### HMO Analysis Button
+
+The HMO Analysis button is linked to the HMO Analysis sheet. Here, stakeholders can access three pivot tables: "Comparison of Total 10% Co-payment and Total Clinic Owing Pharmacy (Segmented on Monthly Basis)," "Cumulative Yearly Total by Months and Years," and "Percent Change by HMO Between the Two Years Covered." These tables offer a comprehensive analysis of HMO-related cost metrics and trends.
+
+### HMO Claims Button
+
+Clicking on the HMO Claims button will take the user to the HMO Claims summary sheet. This sheet presents a summary of billed and vetted claims for both public and private HMOs, along with the remaining balance to be paid.
+
+With these interactive features, stakeholders can easily explore and analyze healthcare cost data, gain valuable insights, and make data-driven decisions to improve cost efficiency and service quality.
+
+
