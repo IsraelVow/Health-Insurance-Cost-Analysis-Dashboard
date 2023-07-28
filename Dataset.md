@@ -2,7 +2,7 @@
 
 ## Data Source
 
-The dataset used for this analysis was obtained from the Health Information System of Almadina Clinic. The data export range covers transactions from 2019 to 2020. It includes information related to healthcare services provided to Health Maintenance Organization (HMO) enrollees.
+The dataset used for this analysis was obtained from the Health Information System at Almadina Clinic. The data export range covers transactions from 2019 to 2020. It includes information related to healthcare services provided to Health Maintenance Organization (HMO) enrollees.
 
 Here's a preview of the dataset:
 
