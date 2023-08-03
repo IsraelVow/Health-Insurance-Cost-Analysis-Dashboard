@@ -35,7 +35,7 @@ The Pivot Table provides a comprehensive view of the cumulative yearly total cos
 ![Pivot Table](https://i.imgur.com/48LLwLO.png)
 
 **Description:**
-This Pivot Table presents a comparison of total NHIS services between 2019 and 2020 for various HMOs. It calculates the percentage change in cost, allowing stakeholders to assess the cost fluctuations for each HMO over the two years years. The table provides insights into the growth or decline of each HMO's healthcare utilization and its financial impact.
+This Pivot Table presents a comparison of total NHIS services between 2019 and 2020 for various HMOs. It calculates the percentage change in cost, allowing stakeholders to assess the cost fluctuations for each HMO over the two years. The table provides insights into the growth or decline of each HMO's healthcare utilization and its financial impact.
 
 ## 6. Pivot Table: HMO CAP & FFS
 
@@ -56,9 +56,9 @@ The Department Analysis 1 Pivot Table evaluates the total count of enrollee visi
 ![Pivot Table](https://i.imgur.com/ClZeRCU.png)
 
 **Description:**
-The Department Analysis 2 Pivot Table examines the total cost of healthcare services based on different departments within Almadina Clinic. It includes the average cost of services for each department and further breaks down the costs between CAP and FFS. Stakeholders can gain insights into cost disparities among departments and identify areas for cost optimization and resource allocation improvements.
+The Department Analysis 2 Pivot Table examines the total cost of healthcare services based on different departments within Almadina Clinic. It includes the average price of services for each department and further breaks down the costs between CAP and FFS. Stakeholders can gain insights into departmental cost disparities and identify areas for cost optimization and resource allocation improvements.
 
-These visualizations and charts provide valuable insights into the cost structure and financial efficiency of healthcare services provided by Almadina Clinic. They enable data-driven decision-making, cost mitigation strategies, and overall improvements in healthcare service quality and cost-effectiveness.
+These visualizations and charts provide valuable insights into the cost structure and financial efficiency of healthcare services offered by Almadina Clinic. They enable data-driven decision-making, cost mitigation strategies, and overall improvements in healthcare service quality and cost-effectiveness.
 
 ## Dashboard Navigation
 
@@ -74,7 +74,7 @@ This button, when clicked, sends the user to the Departmental Analysis sheet. He
 
 ### HMO Analysis Button
 
-The HMO Analysis button is linked to the HMO Analysis sheet. Here, stakeholders can access three pivot tables: "Comparison of Total 10% Co-payment and Total Clinic Owing Pharmacy (Segmented on a Monthly Basis)," "Cumulative Yearly Total by Months and Years," and "Percent Change by HMO Between the Two Years Covered." These tables offer a comprehensive analysis of HMO-related cost metrics and trends.
+The HMO Analysis button is linked to the HMO Analysis sheet. Here, stakeholders can access three pivot tables: "Comparison of Total 10% Co-payment and Total Clinic Owing Pharmacy (Segmented every month)," "Cumulative Yearly Total by Months and Years," and "Percent Change by HMO Between the Two Years Covered." These tables offer a comprehensive analysis of HMO-related cost metrics and trends.
 
 ### HMO Claims Button
 
