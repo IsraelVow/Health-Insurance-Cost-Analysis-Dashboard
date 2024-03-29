@@ -4,6 +4,9 @@
 
 Welcome to the Cost Efficiency Analysis project focused on assessing and evaluating the cost of healthcare services provided by Almadina Clinic to Health Maintenance Organizations (HMOs). This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs.
 
+![ezgif com-video-to-gif](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard/assets/107493503/ef059a7a-d7fc-4309-9b93-32b2bbe60184)
+
+
 ## Project Background
 
 The rising cost of healthcare services has become a significant concern in the healthcare industry. Over the past 13 years, health providers have received the same capitation amount from the National Health Insurance Scheme (NHIS). However, during this time, the cost of providing these essential healthcare services to HMOs has significantly increased, posing challenges to maintaining standards and effectively managing the organization. As responsible healthcare providers, we remain steadfast in our commitment to delivering the highest quality of care while ensuring cost-effectiveness for our HMO partners. The initiation of the Activity Analysis Project is aimed at gaining profound insights into resource utilization, identifying inefficiencies, and making well-informed, data-driven decisions to enhance the overall healthcare experience for the esteemed enrollees within the HMOs.
